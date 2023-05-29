@@ -1,0 +1,39 @@
+May 29, 2023 20:30:11.051 [274969991936] INFO - Plex Media Scanner v1.32.2.7100-248a2daf0 - Docker Docker Container x86_64 - build: linux-x86_64 - GMT 00:00
+May 29, 2023 20:30:11.071 [274969991936] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+May 29, 2023 20:30:11.072 [274969991936] INFO - Processor: 5-core QEMU TCG CPU version 2.5+
+May 29, 2023 20:30:11.073 [274969991936] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 1 --log-file-suffix  Matcher --files /data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4
+May 29, 2023 20:30:11.050 [274969131840] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 29, 2023 20:30:11.511 [274969131840] DEBUG - [MI] Opening input file: "/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4"
+May 29, 2023 20:30:11.514 [274969131840] DEBUG - [FFMPEG] - Opening '/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4' for reading
+May 29, 2023 20:30:11.514 [274969131840] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 29, 2023 20:30:11.523 [274969131840] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+May 29, 2023 20:30:11.524 [274969131840] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+May 29, 2023 20:30:11.526 [274969131840] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+May 29, 2023 20:30:11.568 [274969131840] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1001, duration: 115319204
+May 29, 2023 20:30:11.594 [274969131840] DEBUG - [FFMPEG] - Offset DTS by 1001 to make first pts zero.
+May 29, 2023 20:30:11.597 [274969131840] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+May 29, 2023 20:30:11.598 [274969131840] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+May 29, 2023 20:30:11.632 [274969131840] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2000968 bytes read:2033595 seeks:0 nb_streams:2
+May 29, 2023 20:30:11.637 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 29, 2023 20:30:11.638 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 29, 2023 20:30:11.640 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 29, 2023 20:30:11.641 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 29, 2023 20:30:11.645 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 29, 2023 20:30:11.646 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 29, 2023 20:30:11.647 [274969131840] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 29, 2023 20:30:11.654 [274969131840] DEBUG - [FFMPEG] - no picture 
+May 29, 2023 20:30:11.753 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.766 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.787 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.809 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.830 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.851 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.873 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:11.897 [274969131840] DEBUG - [FFMPEG] - All info found
+May 29, 2023 20:30:11.901 [274969131840] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 2159558 bytes read:2165109 seeks:0 frames:12
+May 29, 2023 20:30:11.902 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 29, 2023 20:30:11.902 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 29, 2023 20:30:11.903 [274969131840] DEBUG - [MI] Closing input file: "/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4"
+May 29, 2023 20:30:11.914 [274969131840] DEBUG - Matcher: found 0 auxiliary files in "/data/media/movies" (single media: yes)
+May 29, 2023 20:30:11.914 [274969131840] DEBUG - Matcher: no sidecar subtitle files found for "/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4"
+May 29, 2023 20:30:11.930 [274969131840] DEBUG - Matcher: no valid subtitles found, removing any existing media bundle file

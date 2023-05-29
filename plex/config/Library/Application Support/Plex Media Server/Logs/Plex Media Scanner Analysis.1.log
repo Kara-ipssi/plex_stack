@@ -1,0 +1,34 @@
+May 29, 2023 20:25:12.436 [274970004224] INFO - Plex Media Scanner v1.32.2.7100-248a2daf0 - Docker Docker Container x86_64 - build: linux-x86_64 - GMT 00:00
+May 29, 2023 20:25:12.456 [274970004224] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+May 29, 2023 20:25:12.457 [274970004224] INFO - Processor: 5-core QEMU TCG CPU version 2.5+
+May 29, 2023 20:25:12.458 [274970004224] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 3
+May 29, 2023 20:25:12.444 [274969131840] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 29, 2023 20:25:12.912 [274969131840] DEBUG - Analyzing media parts for item 4 (Another One Bites the Dust - Queen): 2
+May 29, 2023 20:25:12.935 [274969131840] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:25:12.937 [274969131840] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:25:12.954 [274995604224] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:25:12.959 [274969131840] DEBUG - Updating metadata item (save) (Another One Bites the Dust - Queen) with ID 4
+May 29, 2023 20:25:13.024 [274969131840] DEBUG - [ID 2] Media part analysis: /data/media/music/Another One Bites the Dust - Queen.mp3
+May 29, 2023 20:25:13.033 [274969131840] DEBUG - [MI] Opening input file: "/data/media/music/Another One Bites the Dust - Queen.mp3"
+May 29, 2023 20:25:13.035 [274969131840] DEBUG - [FFMPEG] - Opening '/data/media/music/Another One Bites the Dust - Queen.mp3' for reading
+May 29, 2023 20:25:13.035 [274969131840] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 29, 2023 20:25:13.044 [274969131840] DEBUG - [FFMPEG] - Format mp3 probed with size=4096 and score=51
+May 29, 2023 20:25:13.044 [274969131840] DEBUG - [FFMPEG] - id3v2 ver:4 flags:00 len:127
+May 29, 2023 20:25:13.046 [274969131840] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 137 bytes read:32768 seeks:0 nb_streams:1
+May 29, 2023 20:25:13.062 [274969131840] DEBUG - [FFMPEG] - All info found
+May 29, 2023 20:25:13.062 [274969131840] WARN - [FFMPEG] - Estimating duration from bitrate, this may be inaccurate
+May 29, 2023 20:25:13.063 [274969131840] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 31881 bytes read:32768 seeks:0 frames:50
+May 29, 2023 20:25:13.065 [274969131840] DEBUG - [MI]  * 48032790d3da0ec1235a9bb064beaa6a9cdde946 [mp3 /mp3] Duration: 215641ms, 0x0 (0.000000) 0.000fps, bitrate=192kbps, audio channels=2, optimizedForStreaming=0 ("/data/media/music/Another One Bites the Dust - Queen.mp3")
+May 29, 2023 20:25:13.069 [274969131840] DEBUG - [MI] Chapters had generic titles, clearing.
+May 29, 2023 20:25:13.071 [274969131840] DEBUG - [MI] Closing input file: "/data/media/music/Another One Bites the Dust - Queen.mp3"
+May 29, 2023 20:25:13.074 [274969131840] DEBUG - Committing media stream changes for part 2
+May 29, 2023 20:25:13.086 [274969131840] DEBUG - Updating media item 2, size=5175516, metadata_item_id=4
+May 29, 2023 20:25:13.088 [274969131840] DEBUG - Updating part with ID=2 [/data/media/music/Another One Bites the Dust - Queen.mp3]
+May 29, 2023 20:25:13.097 [274996718336] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=4&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 29, 2023 20:25:13.100 [274995604224] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=4&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 29, 2023 20:25:13.101 [274996718336] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=4&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 29, 2023 20:25:13.102 [274995604224] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=3&metadataItemID=4&metadataType=10&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 29, 2023 20:25:13.106 [274969131840] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:25:13.106 [274969131840] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:25:13.108 [274995604224] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 29, 2023 20:25:13.109 [274969131840] DEBUG - Updating metadata item (save) (Another One Bites the Dust - Queen) with ID 4

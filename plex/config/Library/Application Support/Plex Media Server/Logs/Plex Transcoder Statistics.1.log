@@ -1,0 +1,69 @@
+<SessionReport version="2" startTime="0" startTimestamp="May 29, 2023 20:36:36.643" key="/library/metadata/1" session="8F45A80F-9FA4-44C8-A9D3-1D58B46693C5" transcode="442EE47F-CE7A-4D5F-A54B-549EB49607BD">
+<User id="1" thumb="https://plex.tv/users/98b8d3d9d630f723/avatar?c=1672156350" title="W&#233;time" />
+<Player address="127.0.0.1" device="iPhone" machineIdentifier="8F45A80F-9FA4-44C8-A9D3-1D58B46693C5" model="14,5" platform="iOS" platformVersion="16.4.1" product="Plex for iOS" remotePublicAddress="127.0.0.1" title="iPhone" vendor="Apple" version="8.19.1" local="0" relayed="1" secure="1" userID="1" />
+<Variants>
+<Variant id="6cd85f2f-60f8-4983-afab-f072b5bf685f" targetBitrate="712" context="streaming" sourceVideoCodec="h264" sourceAudioCodec="aac" videoDecision="transcode" audioDecision="transcode" protocol="hls" container="mkv" videoCodec="h264" audioCodec="opus" audioChannels="2" transcodeHwRequested="0" transcodeHwFullPipeline="0">
+<Media audioProfile="lc" id="1" videoProfile="main" audioChannels="2" audioCodec="opus" bitrate="678" container="mkv" duration="4804975" height="270" protocol="hls" videoCodec="h264" videoFrameRate="24p" videoResolution="SD" width="480" selected="1">
+<Part audioProfile="lc" id="1" videoProfile="main" bitrate="678" container="mkv" duration="4804975" height="270" protocol="hls" width="480" decision="transcode" selected="1">
+<Stream bitrate="553" codec="h264" default="1" displayTitle="720p (H.264)" extendedDisplayTitle="720p (H.264)" frameRate="23.975999832153320" height="270" id="1" streamType="1" width="480" decision="transcode" location="segments-av" />
+<Stream bitrate="125" bitrateMode="cbr" channels="2" codec="opus" default="1" displayTitle="Unknown (AAC Stereo)" extendedDisplayTitle="Unknown (AAC Stereo)" id="2" selected="1" streamType="2" decision="transcode" location="segments-av" />
+</Part>
+</Media>
+</Variant>
+</Variants>
+<SegmentList>
+<Segment duration="8007" startOffset="0" endOffset="8007">
+<File name="media-00000.ts" type="av">
+<FileVariant size="642897" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</File>
+<Timelines>
+<Transcode startTime="1659" endTime="8784" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+<Download startTime="9074" endTime="9125" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f">
+<Pause type="segmentWait" startTime="9074" endTime="9075" />
+</Download>
+</Timelines>
+</Segment>
+<Segment duration="8007" startOffset="8007" endOffset="16015">
+<File name="media-00001.ts" type="av">
+<FileVariant size="559533" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</File>
+<Timelines>
+<Download startTime="9288" endTime="14774" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f">
+<Pause type="segmentWait" startTime="9288" endTime="14730" />
+</Download>
+<Transcode startTime="8784" endTime="14723" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</Timelines>
+</Segment>
+<Segment duration="8008" startOffset="16015" endOffset="24024">
+<File name="media-00002.ts" type="av">
+<FileVariant size="654556" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</File>
+<Timelines>
+<Download startTime="14892" endTime="20859" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f">
+<Pause type="segmentWait" startTime="14892" endTime="20833" />
+</Download>
+<Transcode startTime="14723" endTime="20766" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</Timelines>
+</Segment>
+<Segment duration="8007" startOffset="24024" endOffset="32031">
+<File name="media-00003.ts" type="av">
+<FileVariant size="652160" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</File>
+<Timelines>
+<Download startTime="20937" endTime="27005" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f">
+<Pause type="segmentWait" startTime="20937" endTime="26968" />
+</Download>
+<Transcode startTime="20766" endTime="26948" complete="1" fileType="av" variant="6cd85f2f-60f8-4983-afab-f072b5bf685f" />
+</Timelines>
+</Segment>
+</SegmentList>
+<PlaybackReports>
+<Playback startTime="14940" endTime="15404" state="buffering" progress="0" />
+<Playback startTime="15404" endTime="20411" state="playing" progress="0" />
+<Playback startTime="20411" endTime="25705" state="playing" progress="5019" />
+<Playback startTime="25705" endTime="25932" state="playing" progress="10316" />
+<Playback startTime="25932" endTime="27270" state="buffering" progress="827711" />
+</PlaybackReports>
+<StateReports />
+<StateReports />
+</SessionReport>

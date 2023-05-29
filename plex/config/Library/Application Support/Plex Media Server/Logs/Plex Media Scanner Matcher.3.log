@@ -1,0 +1,17 @@
+May 29, 2023 20:25:14.507 [274970004224] INFO - Plex Media Scanner v1.32.2.7100-248a2daf0 - Docker Docker Container x86_64 - build: linux-x86_64 - GMT 00:00
+May 29, 2023 20:25:14.524 [274970004224] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+May 29, 2023 20:25:14.525 [274970004224] INFO - Processor: 5-core QEMU TCG CPU version 2.5+
+May 29, 2023 20:25:14.526 [274970004224] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --match --type 8 --log-file-suffix  Matcher --item 2 --match-tag-mode=exclusive
+May 29, 2023 20:25:14.511 [274969131840] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 29, 2023 20:25:14.981 [274969131840] DEBUG - [MI] Opening input file: "/data/media/music/Another One Bites the Dust - Queen.mp3"
+May 29, 2023 20:25:14.984 [274969131840] DEBUG - [FFMPEG] - Opening '/data/media/music/Another One Bites the Dust - Queen.mp3' for reading
+May 29, 2023 20:25:14.984 [274969131840] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 29, 2023 20:25:14.994 [274969131840] DEBUG - [FFMPEG] - Format mp3 probed with size=4096 and score=51
+May 29, 2023 20:25:14.995 [274969131840] DEBUG - [FFMPEG] - id3v2 ver:4 flags:00 len:127
+May 29, 2023 20:25:14.997 [274969131840] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 137 bytes read:32768 seeks:0 nb_streams:1
+May 29, 2023 20:25:15.012 [274969131840] DEBUG - [FFMPEG] - All info found
+May 29, 2023 20:25:15.012 [274969131840] WARN - [FFMPEG] - Estimating duration from bitrate, this may be inaccurate
+May 29, 2023 20:25:15.013 [274969131840] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 31881 bytes read:32768 seeks:0 frames:50
+May 29, 2023 20:25:15.018 [274969131840] DEBUG - [MI] Chapters had generic titles, clearing.
+May 29, 2023 20:25:15.019 [274969131840] DEBUG - [MI] Closing input file: "/data/media/music/Another One Bites the Dust - Queen.mp3"
+May 29, 2023 20:25:15.022 [274969131840] INFO - Match: Disc 1 started with track -1 (/data/media/music/Another One Bites the Dust - Queen.mp3), we won't use this method.
