@@ -1,4 +1,0 @@
-May 29, 2023 21:55:11.910 [274936249144] INFO - Crash Uploader - Platform: Linux ServerUUID: 260f3b370065325658e9c678f9981104096370bb UserId: viceman78@gmail.com Version: 1.32.2.7100-248a2daf0
-May 29, 2023 21:55:11.918 [274936249144] INFO - Pre-processed minidump directory: /config/Library/Application Support/Plex Media Server/Crash Reports/1.32.2.7100-248a2daf0
-May 29, 2023 21:55:11.919 [274936249144] INFO - Post-processed minidump directory: /tmp
-May 29, 2023 21:55:11.919 [274905176072] INFO - Crash Uploader - Processing Complete.
