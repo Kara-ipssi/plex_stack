@@ -1,0 +1,249 @@
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2023-05-29T20:17:19.073Z"}
+{"level":"info","message":"Starting Overseerr version 1.32.5","timestamp":"2023-05-29T20:17:19.374Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-05-29T20:17:20.561Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-05-29T20:17:20.580Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":0,"type":1},"timestamp":"2023-05-29T20:17:20.583Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":1,"type":2},"timestamp":"2023-05-29T20:17:20.596Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":2,"type":3},"timestamp":"2023-05-29T20:17:20.602Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":3,"type":4},"timestamp":"2023-05-29T20:17:20.610Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":4,"type":5},"timestamp":"2023-05-29T20:17:20.616Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":5,"type":6},"timestamp":"2023-05-29T20:17:20.628Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":6,"type":7},"timestamp":"2023-05-29T20:17:20.635Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":7,"type":8},"timestamp":"2023-05-29T20:17:20.642Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":8,"type":9},"timestamp":"2023-05-29T20:17:20.648Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":9,"type":10},"timestamp":"2023-05-29T20:17:20.653Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":10,"type":11},"timestamp":"2023-05-29T20:17:20.659Z"}
+{"label":"Discover Slider","level":"info","message":"Creating built-in discovery slider","slider":{"enabled":true,"isBuiltIn":true,"order":11,"type":12},"timestamp":"2023-05-29T20:17:20.665Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-05-29T20:17:20.801Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:18:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:19:00.047Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:20:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T20:20:00.030Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:20:00.038Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"e336ab4f-5cc9-4849-a4ad-cd2e01537bfb","timestamp":"2023-05-29T20:20:00.039Z"}
+{"label":"Plex Scan","level":"warn","message":"No admin configured. Plex scan skipped.","timestamp":"2023-05-29T20:20:00.042Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:21:00.060Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:24:16.618Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:24:16.621Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:24:16.626Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:25:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:25:00.041Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"c9f3de33-c0fe-47ea-ae5e-c38b33384f0f","timestamp":"2023-05-29T20:25:00.042Z"}
+{"label":"Plex Scan","level":"warn","message":"No admin configured. Plex scan skipped.","timestamp":"2023-05-29T20:25:00.046Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:26:00.035Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:27:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:28:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:29:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:30:00.018Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:30:00.039Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4e1719ca-2ed6-4bd0-9bdf-280892dacfa9","timestamp":"2023-05-29T20:30:00.040Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T20:30:00.047Z"}
+{"label":"Plex Scan","level":"warn","message":"No admin configured. Plex scan skipped.","timestamp":"2023-05-29T20:30:00.049Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:31:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:32:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:33:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:34:00.035Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:35:00.013Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:35:00.019Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"f4e26079-7228-48fa-b4c1-56df568b804c","timestamp":"2023-05-29T20:35:00.019Z"}
+{"label":"Plex Scan","level":"warn","message":"No admin configured. Plex scan skipped.","timestamp":"2023-05-29T20:35:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:36:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:37:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:38:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:39:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:40:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:40:00.031Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"bbec0c4c-7946-490e-a998-181f8cb601c1","timestamp":"2023-05-29T20:40:00.031Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T20:40:00.042Z"}
+{"label":"Plex Scan","level":"warn","message":"No admin configured. Plex scan skipped.","timestamp":"2023-05-29T20:40:00.045Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:41:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:42:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:43:00.018Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:44:00.024Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:45:00.031Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:45:00.046Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"c3ea596d-8748-4f61-b7bb-316f466cbee4","timestamp":"2023-05-29T20:45:00.047Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T20:45:00.080Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T20:45:00.103Z"}
+{"label":"Plex Scan","level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T20:45:00.124Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T20:45:00.143Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:45:02.736Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:45:07.036Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:45:07.678Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:45:25.368Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:45:26.041Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:45:34.397Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:46:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:47:00.014Z"}
+{"label":"Sonarr","level":"error","message":"[Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:8989","timestamp":"2023-05-29T20:47:59.461Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:48:00.014Z"}
+{"label":"Sonarr","level":"error","message":"[Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:8989","timestamp":"2023-05-29T20:48:06.469Z"}
+{"label":"Sonarr","level":"error","message":"[Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:8989","timestamp":"2023-05-29T20:48:07.042Z"}
+{"label":"Sonarr","level":"error","message":"[Sonarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:8989","timestamp":"2023-05-29T20:48:07.865Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:49:00.021Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"API","level":"error","message":"Something went wrong testing Plex connection","timestamp":"2023-05-29T20:49:30.750Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"API","level":"error","message":"Something went wrong testing Plex connection","timestamp":"2023-05-29T20:49:43.726Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:50:00.016Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:50:00.025Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"879cb4f0-a3ae-4fe0-a323-d6e4f8746269","timestamp":"2023-05-29T20:50:00.025Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T20:50:00.033Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-05-29T20:50:00.044Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:51:00.015Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 172.21.0.4:7878","timestamp":"2023-05-29T20:51:38.351Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:52:00.020Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 172.21.0.2:7878","timestamp":"2023-05-29T20:52:41.892Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 172.21.0.3:7878","timestamp":"2023-05-29T20:52:47.376Z"}
+{"label":"Radarr","level":"error","message":"[Radarr] Failed to retrieve profiles: connect ECONNREFUSED 127.0.0.1:7878","timestamp":"2023-05-29T20:52:55.774Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:53:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:54:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:55:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T20:55:00.021Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4ecbea6c-f902-47ab-9292-5bdd98a2e45b","timestamp":"2023-05-29T20:55:00.022Z"}
+{"label":"Plex Scan","lastScan":1685393100101,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T20:55:00.042Z"}
+{"label":"Plex Scan","lastScan":1685393100122,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T20:55:00.070Z"}
+{"label":"Plex Scan","lastScan":1685393100141,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T20:55:00.086Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T20:55:00.099Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:56:00.011Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:57:00.037Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:58:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T20:59:00.003Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:00:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:00:00.026Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"77ed3a8c-3227-4497-8827-b6936e840059","timestamp":"2023-05-29T21:00:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T21:00:00.033Z"}
+{"label":"Plex Scan","lastScan":1685393700066,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:00:00.051Z"}
+{"label":"Plex Scan","lastScan":1685393700084,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:00:00.070Z"}
+{"label":"Plex Scan","lastScan":1685393700097,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:00:00.087Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:00:00.102Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:01:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:02:00.018Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"API","level":"error","message":"Something went wrong testing Plex connection","timestamp":"2023-05-29T21:02:52.617Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"API","level":"error","message":"Something went wrong testing Plex connection","timestamp":"2023-05-29T21:02:54.778Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"API","level":"error","message":"Something went wrong testing Plex connection","timestamp":"2023-05-29T21:02:55.090Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"API","level":"error","message":"Something went wrong testing Plex connection","timestamp":"2023-05-29T21:02:55.287Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:03:00.008Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:04:00.018Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:05:00.014Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:05:00.017Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"de17e734-7ded-4697-89e2-bac83a6787ce","timestamp":"2023-05-29T21:05:00.017Z"}
+{"errorMessage":"connect ECONNREFUSED 127.0.0.1:32400","label":"Plex Scan","level":"error","message":"Scan interrupted","timestamp":"2023-05-29T21:05:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:06:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:07:00.016Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:08:00.017Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:09:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:10:00.021Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:10:00.028Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"1609916f-2312-41a4-9fe3-5717b789131a","timestamp":"2023-05-29T21:10:00.031Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T21:10:00.036Z"}
+{"label":"Plex Scan","lastScan":1685394000068,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:10:00.058Z"}
+{"label":"Plex Scan","lastScan":1685394000085,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:10:00.078Z"}
+{"label":"Plex Scan","lastScan":1685394000100,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:10:00.093Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:10:00.106Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:11:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:12:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:13:00.013Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"Fast X (2023)","timestamp":"2023-05-29T21:13:03.891Z"}
+{"label":"Media Request","level":"info","mediaId":1,"message":"Sent request to Radarr","requestId":1,"timestamp":"2023-05-29T21:13:03.895Z"}
+{"label":"Radarr","level":"info","message":"Radarr accepted request","timestamp":"2023-05-29T21:13:04.829Z"}
+{"label":"Radarr","level":"debug","message":"Radarr add details","movie":{"addOptions":{"addMethod":"manual","ignoreEpisodesWithFiles":false,"ignoreEpisodesWithoutFiles":false,"monitor":"movieOnly","searchForMovie":true},"added":"2023-05-29T21:13:04Z","alternateTitles":[],"certification":"PG-13","cleanTitle":"fastx","collection":{"added":"0001-01-01T00:00:00Z","id":0,"images":[],"minimumAvailability":"tba","monitored":false,"qualityProfileId":0,"searchOnAdd":false,"title":"The Fast and the Furious Collection","tmdbId":9485},"folderName":"/data/Fast X (2023)","genres":["Action","Crime","Thriller"],"hasFile":false,"id":1,"images":[{"coverType":"poster","remoteUrl":"https://image.tmdb.org/t/p/original/1E5baAaEse26fej7uHcjOgEE2t2.jpg","url":"/MediaCover/1/poster.jpg"},{"coverType":"fanart","remoteUrl":"https://image.tmdb.org/t/p/original/4t0oBFrJyweYPt0hocW6RUa0b6H.jpg","url":"/MediaCover/1/fanart.jpg"}],"imdbId":"tt5433140","inCinemas":"2023-05-17T00:00:00Z","isAvailable":false,"minimumAvailability":"released","monitored":true,"originalLanguage":{"id":1,"name":"English"},"originalTitle":"Fast X","overview":"Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.","path":"/data/Fast X (2023)","popularity":4830.683,"qualityProfileId":4,"ratings":{"imdb":{"type":"user","value":6.4,"votes":5309},"tmdb":{"type":"user","value":7.036,"votes":593}},"rootFolderPath":"/data/","runtime":142,"secondaryYearSourceId":0,"sizeOnDisk":0,"sortTitle":"fast x","status":"inCinemas","studio":"Universal Pictures","tags":[],"title":"Fast X","titleSlug":"385687","tmdbId":385687,"website":"https://fastxmovie.com","year":2023,"youTubeTrailerId":"eoOaKN4qCKw"},"timestamp":"2023-05-29T21:13:04.829Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:14:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:15:00.018Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:15:00.032Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"72318bc0-9eb7-4bb1-af27-90e759f86b98","timestamp":"2023-05-29T21:15:00.033Z"}
+{"label":"Plex Scan","lastScan":1685394600076,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:15:00.063Z"}
+{"label":"Plex Scan","lastScan":1685394600091,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:15:00.082Z"}
+{"label":"Plex Scan","lastScan":1685394600104,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:15:00.098Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:15:00.113Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:16:00.022Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:17:00.024Z"}
+{"label":"Notifications","level":"info","message":"Sending notification(s) for MEDIA_AUTO_APPROVED","subject":"JoJo's Bizarre Adventure (2012)","timestamp":"2023-05-29T21:17:31.971Z"}
+{"label":"Media Request","level":"info","mediaId":2,"message":"Sent request to Sonarr","requestId":2,"timestamp":"2023-05-29T21:17:31.983Z"}
+{"label":"Sonarr","level":"info","message":"Sonarr accepted request","timestamp":"2023-05-29T21:17:33.837Z"}
+{"label":"Sonarr","level":"debug","message":"Sonarr add details","movie":{"added":"2023-05-29T21:17:32.309157Z","airTime":"00:30","alternateTitles":[{"sceneSeasonNumber":2,"title":"JoJo's Bizarre Adventure - Stardust Crusaders"},{"sceneSeasonNumber":1,"title":"JoJo's Bizarre Adventure"},{"sceneSeasonNumber":4,"title":"JoJo's Bizarre Adventure - Golden Wind"},{"sceneSeasonNumber":2,"title":"JoJo Bizarre Adventure - Stardust Crusaders"},{"sceneSeasonNumber":1,"title":"JoJo Bizarre Adventure"},{"sceneSeasonNumber":5,"title":"JoJo's Bizarre Adventure - Stone Ocean"},{"sceneSeasonNumber":5,"title":"JoJo no Kimyou na Bouken: Stone Ocean"},{"sceneSeasonNumber":1,"title":"JoJo no Kimyou na Bouken"},{"sceneSeasonNumber":2,"title":"JoJo no Kimyou na Bouken: Stardust Crusaders"},{"sceneSeasonNumber":3,"title":"JoJo no Kimyou na Bouken: Diamond wa Kudakenai"},{"sceneSeasonNumber":4,"title":"JoJo no Kimyou na Bouken: Ougon no Kaze"},{"sceneSeasonNumber":2,"title":"JoJo's Bizarre Adventure - Stardust Crusaders Egypt Arc"},{"sceneSeasonNumber":2,"title":"JoJo Bizarre Adventure - Stardust Crusaders Egypt Arc"},{"sceneSeasonNumber":2,"title":"JoJo no Kimyou na Bouken: Stardust Crusaders 2015"},{"sceneSeasonNumber":3,"title":"JoJo Bizarre Adventure - Diamond is Unbreakable"},{"sceneSeasonNumber":3,"title":"JoJo's Bizarre Adventure - Diamond is Unbreakable"}],"certification":"TV-MA","cleanTitle":"jojosbizarreadventure2012","ended":false,"firstAired":"2012-10-06T00:00:00Z","genres":["Action","Adventure","Animation","Anime","Comedy","Drama","Fantasy","Horror","Thriller"],"id":1,"images":[{"coverType":"banner","remoteUrl":"https://artworks.thetvdb.com/banners/graphical/262954-g5.jpg","url":"/MediaCover/1/banner.jpg?lastWrite=638209918531715606"},{"coverType":"poster","remoteUrl":"https://artworks.thetvdb.com/banners/posters/262954-5.jpg","url":"/MediaCover/1/poster.jpg?lastWrite=638209918532690855"},{"coverType":"fanart","remoteUrl":"https://artworks.thetvdb.com/banners/fanart/original/262954-12.jpg","url":"/MediaCover/1/fanart.jpg?lastWrite=638209918533821747"},{"coverType":"unknown","remoteUrl":"https://artworks.thetvdb.com/banners/v4/series/262954/clearlogo/611bf2a856cb3.png","url":"/MediaCover/1/unknown.jpg?lastWrite=638209918535098987"}],"imdbId":"tt2359704","languageProfileId":1,"monitored":true,"network":"Tokyo MX","overview":"Follows an intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.","path":"/data/JoJo's Bizarre Adventure (2012)","previousAiring":"2013-04-05T15:30:00Z","qualityProfileId":4,"ratings":{"value":0,"votes":0},"rootFolderPath":"/data/","runtime":25,"seasonFolder":true,"seasons":[{"monitored":false,"seasonNumber":0,"statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"releaseGroups":[],"sizeOnDisk":0,"totalEpisodeCount":7}},{"monitored":true,"seasonNumber":1,"statistics":{"episodeCount":26,"episodeFileCount":0,"percentOfEpisodes":0,"previousAiring":"2013-04-05T15:30:00Z","releaseGroups":[],"sizeOnDisk":0,"totalEpisodeCount":26}},{"monitored":false,"seasonNumber":2,"statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"releaseGroups":[],"sizeOnDisk":0,"totalEpisodeCount":48}},{"monitored":false,"seasonNumber":3,"statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"releaseGroups":[],"sizeOnDisk":0,"totalEpisodeCount":39}},{"monitored":false,"seasonNumber":4,"statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"releaseGroups":[],"sizeOnDisk":0,"totalEpisodeCount":39}},{"monitored":false,"seasonNumber":5,"statistics":{"episodeCount":0,"episodeFileCount":0,"percentOfEpisodes":0,"releaseGroups":[],"sizeOnDisk":0,"totalEpisodeCount":38}}],"seriesType":"anime","sortTitle":"jojos bizarre adventure 2012","statistics":{"episodeCount":26,"episodeFileCount":0,"percentOfEpisodes":0,"releaseGroups":[],"seasonCount":5,"sizeOnDisk":0,"totalEpisodeCount":197},"status":"continuing","tags":[],"title":"JoJo's Bizarre Adventure (2012)","titleSlug":"jojos-bizarre-adventure-2012","tvMazeId":8287,"tvRageId":0,"tvdbId":262954,"useSceneNumbering":true,"year":2012},"timestamp":"2023-05-29T21:17:33.838Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:18:00.021Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:19:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:20:00.021Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:20:00.024Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"4123aacc-f37d-4b23-86d9-70dd2489ddaf","timestamp":"2023-05-29T21:20:00.024Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T21:20:00.027Z"}
+{"label":"Plex Scan","lastScan":1685394900079,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:20:00.038Z"}
+{"label":"Plex Scan","lastScan":1685394900096,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:20:00.052Z"}
+{"label":"Plex Scan","lastScan":1685394900111,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:20:00.067Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:20:00.080Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:21:00.019Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:22:00.025Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:23:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:24:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:25:00.029Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:25:00.040Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"da94ed30-9fad-4563-a34d-f1abe87da2f4","timestamp":"2023-05-29T21:25:00.041Z"}
+{"label":"Plex Scan","lastScan":1685395200049,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:25:00.055Z"}
+{"label":"Plex Scan","lastScan":1685395200065,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:25:00.074Z"}
+{"label":"Plex Scan","lastScan":1685395200078,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:25:00.097Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:25:00.113Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:26:00.034Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:27:00.020Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:28:00.047Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:29:00.029Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:30:00.039Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:30:00.055Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"45c2db70-2909-4b58-8dbe-69afb9d5e89d","timestamp":"2023-05-29T21:30:00.056Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T21:30:00.062Z"}
+{"label":"Plex Scan","lastScan":1685395500070,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:30:00.084Z"}
+{"label":"Plex Scan","lastScan":1685395500095,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:30:00.102Z"}
+{"label":"Plex Scan","lastScan":1685395500111,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:30:00.116Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:30:00.128Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:31:00.035Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:32:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:33:00.035Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:34:00.046Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:35:00.036Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:35:00.045Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"764b6067-84e2-4920-88cb-d0c44cab07e3","timestamp":"2023-05-29T21:35:00.046Z"}
+{"label":"Plex Scan","lastScan":1685395800100,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:35:00.064Z"}
+{"label":"Plex Scan","lastScan":1685395800114,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:35:00.084Z"}
+{"label":"Plex Scan","lastScan":1685395800126,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:35:00.101Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:35:00.115Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:36:00.023Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:37:00.027Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:38:00.030Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:39:00.032Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:40:00.027Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:40:00.042Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"e27ef64c-62e4-4c92-9739-1d0e664e31cd","timestamp":"2023-05-29T21:40:00.043Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T21:40:00.053Z"}
+{"label":"Plex Scan","lastScan":1685396100081,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:40:00.074Z"}
+{"label":"Plex Scan","lastScan":1685396100099,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:40:00.094Z"}
+{"label":"Plex Scan","lastScan":1685396100113,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:40:00.110Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:40:00.123Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:41:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:42:00.026Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:43:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:44:00.028Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:45:00.016Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:45:00.030Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"c07310b2-d69d-4cac-8003-26d99326f42d","timestamp":"2023-05-29T21:45:00.030Z"}
+{"label":"Plex Scan","lastScan":1685396400091,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:45:00.054Z"}
+{"label":"Plex Scan","lastScan":1685396400108,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:45:00.074Z"}
+{"label":"Plex Scan","lastScan":1685396400121,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:45:00.091Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:45:00.105Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:46:00.014Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:47:00.035Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:48:00.009Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:49:00.031Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:50:00.021Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Recently Added Scan","timestamp":"2023-05-29T21:50:00.034Z"}
+{"label":"Plex Scan","level":"info","message":"Scan starting","sessionId":"242541cc-94ce-4c21-b8b8-3bdaeabff29c","timestamp":"2023-05-29T21:50:00.035Z"}
+{"label":"Jobs","level":"info","message":"Starting scheduled job: Plex Watchlist Sync","timestamp":"2023-05-29T21:50:00.045Z"}
+{"label":"Plex Scan","lastScan":1685396700071,"level":"info","message":"Beginning to process recently added for library: Films","timestamp":"2023-05-29T21:50:00.071Z"}
+{"label":"Plex Scan","lastScan":1685396700088,"level":"info","message":"Beginning to process recently added for library: Anime","timestamp":"2023-05-29T21:50:00.090Z"}
+{"label":"Plex Scan","lastScan":1685396700103,"level":"info","message":"Beginning to process recently added for library: Séries TV","timestamp":"2023-05-29T21:50:00.106Z"}
+{"label":"Plex Scan","level":"info","message":"Recently Added Scan Complete","timestamp":"2023-05-29T21:50:00.120Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:51:00.033Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:52:00.014Z"}
+{"level":"info","message":"Commit Tag: $GIT_SHA","timestamp":"2023-05-29T21:55:07.643Z"}
+{"level":"info","message":"Starting Overseerr version 1.32.5","timestamp":"2023-05-29T21:55:07.915Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2023-05-29T21:55:08.703Z"}
+{"label":"Jobs","level":"info","message":"Scheduled jobs loaded","timestamp":"2023-05-29T21:55:08.722Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2023-05-29T21:55:08.832Z"}
+{"label":"Jobs","level":"debug","message":"Starting scheduled job: Download Sync","timestamp":"2023-05-29T21:56:00.045Z"}

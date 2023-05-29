@@ -1,0 +1,70 @@
+May 29, 2023 20:30:12.413 [274970004224] INFO - Plex Media Scanner v1.32.2.7100-248a2daf0 - Docker Docker Container x86_64 - build: linux-x86_64 - GMT 00:00
+May 29, 2023 20:30:12.431 [274970004224] INFO - Linux version: 5.15.49-linuxkit, language: en-US
+May 29, 2023 20:30:12.432 [274970004224] INFO - Processor: 5-core QEMU TCG CPU version 2.5+
+May 29, 2023 20:30:12.433 [274970004224] INFO - /usr/lib/plexmediaserver/Plex Media Scanner --analyze --log-file-suffix  Analysis --item 5
+May 29, 2023 20:30:12.418 [274969131840] DEBUG - Opening 20 database sessions to library (com.plexapp.plugins.library), SQLite 3.39.4, threadsafe=1
+May 29, 2023 20:30:12.876 [274969131840] DEBUG - Analyzing media parts for item 5 (Regarder 1001 Pattes Film Complet en Francais Meilleurs Moments): 3
+May 29, 2023 20:30:12.898 [274969131840] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:12.900 [274969131840] DEBUG - [HCl#1] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:12.915 [274994985728] DEBUG - [HttpClient/HCl#1] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:12.920 [274969131840] DEBUG - Updating metadata item (save) (Regarder 1001 Pattes Film Complet en Francais Meilleurs Moments) with ID 5
+May 29, 2023 20:30:12.964 [274969131840] DEBUG - [ID 3] Media part analysis: /data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4
+May 29, 2023 20:30:12.966 [274969131840] DEBUG - [MI] Opening input file: "/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4"
+May 29, 2023 20:30:12.968 [274969131840] DEBUG - [FFMPEG] - Opening '/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4' for reading
+May 29, 2023 20:30:12.969 [274969131840] DEBUG - [FFMPEG] - Setting default whitelist 'file,crypto,data'
+May 29, 2023 20:30:12.976 [274969131840] DEBUG - [FFMPEG] - Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+May 29, 2023 20:30:12.977 [274969131840] DEBUG - [FFMPEG] - ISO: File Type Major Brand: mp42
+May 29, 2023 20:30:12.979 [274969131840] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+May 29, 2023 20:30:13.021 [274969131840] DEBUG - [FFMPEG] - Processing st: 0, edit list 0 - media time: 1001, duration: 115319204
+May 29, 2023 20:30:13.046 [274969131840] DEBUG - [FFMPEG] - Offset DTS by 1001 to make first pts zero.
+May 29, 2023 20:30:13.050 [274969131840] DEBUG - [FFMPEG] - Setting codecpar->delay to 1 for stream st: 0
+May 29, 2023 20:30:13.050 [274969131840] DEBUG - [FFMPEG] - Unknown dref type 0x206c7275 size 12
+May 29, 2023 20:30:13.084 [274969131840] DEBUG - [FFMPEG] - Before avformat_find_stream_info() pos: 2000968 bytes read:2033595 seeks:0 nb_streams:2
+May 29, 2023 20:30:13.089 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 29, 2023 20:30:13.090 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 29, 2023 20:30:13.093 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 7(SPS), nal_ref_idc: 3
+May 29, 2023 20:30:13.094 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 8(PPS), nal_ref_idc: 3
+May 29, 2023 20:30:13.097 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 6(SEI), nal_ref_idc: 0
+May 29, 2023 20:30:13.098 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 5(IDR), nal_ref_idc: 3
+May 29, 2023 20:30:13.099 [274969131840] DEBUG - [FFMPEG] - Format yuv420p chosen by get_format().
+May 29, 2023 20:30:13.105 [274969131840] DEBUG - [FFMPEG] - no picture 
+May 29, 2023 20:30:13.203 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.216 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.238 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.260 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.282 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.304 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.325 [274969131840] DEBUG - [FFMPEG] - nal_unit_type: 1(Coded slice of a non-IDR picture), nal_ref_idc: 2
+May 29, 2023 20:30:13.348 [274969131840] DEBUG - [FFMPEG] - All info found
+May 29, 2023 20:30:13.352 [274969131840] DEBUG - [FFMPEG] - After avformat_find_stream_info() pos: 2159558 bytes read:2165109 seeks:0 frames:12
+May 29, 2023 20:30:13.353 [274969131840] DEBUG - [MI] Opening "/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4" for MP4 atom parsing
+May 29, 2023 20:30:13.354 [274969131840] DEBUG - Mp4AtomParser: Skipping ftyp atom of size 24 at offset 0
+May 29, 2023 20:30:13.354 [274969131840] DEBUG - Mp4AtomParser: Found moov atom of size 2000936 at offset 24
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found trak atom of size 1118439 at offset 140
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found trak atom of size 882264 at offset 1118579
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found mdia atom of size 1118303 at offset 276
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found minf atom of size 1118168 at offset 411
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found stbl atom of size 1118104 at offset 455
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found mdia atom of size 882164 at offset 1118679
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found minf atom of size 882029 at offset 1118814
+May 29, 2023 20:30:13.355 [274969131840] DEBUG - Mp4AtomParser: Found stbl atom of size 881969 at offset 1118858
+May 29, 2023 20:30:13.358 [274969131840] DEBUG - [MI]  * a8bb8422ab3d242f8ec12753bdc1e7947634cab7 [mp4 h264/aac] Duration: 4804975ms, 1280x720 (1.777778) 23.976fps, bitrate=1575kbps, audio channels=2, optimizedForStreaming=1 ("/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4")
+May 29, 2023 20:30:13.361 [274969131840] DEBUG - [MI] Chapters had generic titles, clearing.
+May 29, 2023 20:30:13.363 [274969131840] DEBUG - [MI] Closing input file: "/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4"
+May 29, 2023 20:30:13.367 [274969131840] DEBUG - Committing media stream changes for part 3
+May 29, 2023 20:30:13.383 [274969131840] DEBUG - Updating media item 3, size=946042271, metadata_item_id=5
+May 29, 2023 20:30:13.384 [274969131840] DEBUG - Updating part with ID=3 [/data/media/movies/Regarder 1001 pattes - Film Complet En Francais - Meilleurs Moments.mp4]
+May 29, 2023 20:30:13.394 [275029043968] DEBUG - [HCl#2] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=5&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing
+May 29, 2023 20:30:13.396 [274994985728] DEBUG - [HttpClient/HCl#2] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=5&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=analyzing (reused)
+May 29, 2023 20:30:13.398 [275029043968] DEBUG - [HCl#3] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=5&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing
+May 29, 2023 20:30:13.399 [274994985728] DEBUG - [HttpClient/HCl#3] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=5&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=thumbnailing (reused)
+May 29, 2023 20:30:13.404 [274969131840] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:13.404 [274969131840] DEBUG - [HCl#4] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:13.406 [274994985728] DEBUG - [HttpClient/HCl#4] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 29, 2023 20:30:13.406 [274969131840] DEBUG - Updating metadata item (save) (Regarder 1001 Pattes Film Complet en Francais Meilleurs Moments) with ID 5
+May 29, 2023 20:30:13.425 [275029043968] DEBUG - [HCl#5] HTTP requesting GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=5&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle
+May 29, 2023 20:30:13.427 [274994985728] DEBUG - [HttpClient/HCl#5] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/:/metadata/notify/changeItemState?librarySectionID=4&metadataItemID=5&metadataType=1&state=-1&parentID=-1&rootID=-1&mediaState=idle (reused)
+May 29, 2023 20:30:13.436 [274969131840] DEBUG - Downloading document http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:13.436 [274969131840] DEBUG - [HCl#6] HTTP requesting GET http://127.0.0.1:32400/library/changestamp
+May 29, 2023 20:30:13.438 [274994985728] DEBUG - [HttpClient/HCl#6] HTTP/1.1 (0.0s) 200 response from GET http://127.0.0.1:32400/library/changestamp (reused)
+May 29, 2023 20:30:13.438 [274969131840] DEBUG - Updating metadata item (save) (Regarder 1001 Pattes Film Complet en Francais Meilleurs Moments) with ID 5
